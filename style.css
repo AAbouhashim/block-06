@@ -1,0 +1,56 @@
+*{
+  margin: 0.5vh;
+  padding: 0;
+  line-height: 2;
+}
+
+.wrapper{
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+.header{
+  background-color: #6C22A6;
+  text-align: center;
+  height: 5vh;
+  color: white;
+  font-size: 2vh;
+  padding-bottom: 2vh;
+}
+
+.pantry{
+  text-align: center;
+  background-color: #6962AD;
+  height: 3vh;
+  color: white;
+  padding:2vh;
+}
+
+ .freezer{
+  text-align: center;
+  background-color: #6962AD;
+  height: 3vh;
+  color: white;
+  padding: 2vh;
+  position: relative;
+}
+
+.canned,.dry-goods{
+  float: left;
+  height: 40vh;
+  width: 30vw;
+  background-color: #83C0C1;
+  text-align: center;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  border-radius: 25px;
+  font-size: x-large;
+  vertical-align: middle;
+}
+
+.image{
+  float:left;
+  height: 40vh;
+  width: 30vh;
+  margin-right: 2vw;
+}
